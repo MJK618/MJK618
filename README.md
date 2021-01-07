@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: You can find me on Google |MJK618| 😲
 
-[![MJK618's github stats](https://github-readme-stats.vercel.app/api?username=mjk618)](https://github.com/anuraghazra/github-readme-stats)
+[![MJK618's github stats](https://github-readme-stats.vercel.app/api?username=mjk618&count_private=true&theme=yeblu&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
