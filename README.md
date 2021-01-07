@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on chatbot-projects 
 - 🤔 I’m looking for help with Node.js
 - 💬 Ask me about anything
-- 📫 How to reach me: [Click the Magic Button](https://linktr.ee/mjk618) [Website (Men At Work - underconstruction)](https://jatinkamboj.me)
+- 📫 How to reach me: [Click the Magic Button](https://linktr.ee/mjk618) | OR | [Website (Men At Work - underconstruction)](https://jatinkamboj.me)
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: You can find me on Google |MJK618| 😲
 
