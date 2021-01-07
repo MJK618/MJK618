@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**MJK618/MJK618** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**MJK618/MJK618** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.--> 
 
 Here are some ideas to get you started:
 
@@ -11,6 +11,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with Node.js
 - 💬 Ask me about anything
 - 📫 How to reach me: [Click the Magic Button](https://linktr.ee/mjk618) [Website (Men At Work - underconstruction)][https://jatinkamboj.me]
-- 😄 Pronouns: He/him/
+- 😄 Pronouns: He/him
 - ⚡ Fun fact: You can find me on Google |MJK618| 😲
---> [![MJK618's github stats](https://github-readme-stats.vercel.app/api?username=mjk618)](https://github.com/anuraghazra/github-readme-stats)
+
+[![MJK618's github stats](https://github-readme-stats.vercel.app/api?username=mjk618)](https://github.com/anuraghazra/github-readme-stats)
