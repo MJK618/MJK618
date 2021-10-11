@@ -41,4 +41,4 @@
 [![MJK618's github stats](https://github-readme-stats.vercel.app/api?username=mjk618&count_private=true&theme=yeblu&show_icons=true)](https://jatinkamboj.me)       [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mjk618&langs_count=18&layout=compact)](https://jatinkamboj.me)
 
 
-[![Website](https://github.com/MJK618/MJK618.github.io/blob/main/images/Home-Page-Social-Icon.png?raw=true)](https://jatinkamboj.me)
+[![Website](https://jatinkamboj.me/images/Home-Page-Social-Icon.png)](https://jatinkamboj.me)
