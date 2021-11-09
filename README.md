@@ -30,7 +30,7 @@
 <br/>
 
 - 🔭 I’m currently working on myself 😉
-- 🌱 I’m currently learning Flutter & Android Programming
+- 🌱 I’m currently learning GoLang
 - 👯 I’m looking to collaborate on chatbot-projects 
 - 🤔 I’m looking for help with Node.js
 - 💬 Ask me about anything
