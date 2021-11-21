@@ -33,7 +33,7 @@
 - 🌱 I’m currently learning GoLang
 - 👯 I’m looking to collaborate on chatbot-projects 
 - 🤔 I’m looking for help with Node.js
-- 💬 Ask me about anything
+- 💬 Ask me about literally anything
 - 📫 How to reach me: [Click the Magic Button](https://linktr.ee/mjk618) | OR | [Website (Men At Work - underconstruction)](https://jatinkamboj.me)
 - ⚡ Fun fact: You can find me on Google |MJK618| 😲 [Know How?](https://bit.ly/3a0XhOT)
 
