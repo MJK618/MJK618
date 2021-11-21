@@ -31,7 +31,7 @@
 
 - 🔭 I’m currently working on myself 😉
 - 🌱 I’m currently learning GoLang
-- 👯 I’m looking to collaborate on chatbot-projects 
+- 👯 I’m currently collaborating on chatbot-projects 
 - 🤔 I’m looking for help with Node.js
 - 💬 Ask me about literally anything
 - 📫 How to reach me: [Click the Magic Button](https://linktr.ee/mjk618) | OR | [Website (Men At Work - underconstruction)](https://jatinkamboj.me)
