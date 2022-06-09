@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on myself 😉
 - 🌱 I’m currently learning GoLang
-- [🎶](https://music.jatinkamboj.me) I’m currently listening to [🎧](https://music.jatinkamboj.me)
+- [🎶 I’m currently listening to 🎧](https://music.jatinkamboj.me)
 - 👯 I’m currently collaborating on chatbot-projects 
 - 🤔 I’m looking for help with Node.js
 - 💬 Ask me about literally anything
