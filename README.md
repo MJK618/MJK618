@@ -1,4 +1,4 @@
-### Namastey 🙏 I am [Jatin Kamboj](http://google.jatinkamboj.me)
+### Namastey 🙏 I am [Jatin Kamboj](https://jatinkamboj.me/google)
 
 <!--
 **MJK618/MJK618** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.--> 
