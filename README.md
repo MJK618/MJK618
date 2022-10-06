@@ -23,7 +23,7 @@
 <p align= "center">
   <img height= "169" src="https://github-readme-stats-mjk618.vercel.app/api?username=MJK618&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true" /> 
   <img height= "169" src="https://github-readme-streak-stats.herokuapp.com/?user=MJK618&theme=nightowl&hide_border=false" />
-  <img height= "169" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MJK618&langs_count=18&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+  <img height= "169" src="https://github-readme-stats-mjk618.vercel.app/api/top-langs/?username=MJK618&langs_count=18&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </p>
 
 ## 🏆GitHub Trophies
