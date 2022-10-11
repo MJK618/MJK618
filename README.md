@@ -7,12 +7,12 @@
 
 - 🔭 I’m currently working on myself 😉
 - 🌱 I’m currently learning GoLang
-- [🎶 I’m currently listening to 🎧](https://www.jatinkamboj.me/music)
+- [🎶 I’m currently listening to 🎧](https://jatinkamboj.me/music)
 - 👯 I’m currently collaborating on chatbot-projects 
 - 🤔 I’m looking for help with Node.js
 - 💬 Ask me about literally anything
-- 📫 How to reach me: [Click the Magic Button](https://www.jatinkamboj.me/links) | OR | [Website (Men At Work - underconstruction)](https://jatinkamboj.me)
-- ⚡ Fun fact: You can find me on Google |MJK618| 😲 [Know How?](https://www.jatinkamboj.me/find)
+- 📫 How to reach me: [Click the Magic Button](https://jatinkamboj.me/links) | OR | [Website (Men At Work - underconstruction)](https://jatinkamboj.me)
+- ⚡ Fun fact: You can find me on Google |MJK618| 😲 [Know How?](https://jatinkamboj.me/find)
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://jatinkamboj.me/facebook) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://jatinkamboj.me/instagram) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://jatinkamboj.me/linkedin) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@mjk618) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/mjk618) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/mjk618) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://jatinkamboj.me/reddit) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://jatinkamboj.me/stackoverflow) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@mjk618) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/mjk618) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://jatinkamboj.me/twitter) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://jatinkamboj.me/youtube) 
